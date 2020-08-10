@@ -2,7 +2,7 @@
   <nav class="flex items-center justify-between flex-wrap p-4">
     <div class="flex items-center flex-shrink-0 text-black mr-6">
       <a href="/">
-        <img src="@/assets/images/talent-acquisition-logo.svg"/>
+        <img src="@/assets/images/firstoptionsfertility-logo.svg"/>
       </a>
     </div>
 

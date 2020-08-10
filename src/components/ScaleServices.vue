@@ -21,15 +21,13 @@
               <img src="@/assets/images/icons/calendar.svg"/>
             </div>
 
-            <div>
+            <div class="flex-1">
               <p class="font-medium text-xl">
                 Make an appointment
               </p>
 
               <p class="mt-4">
-                The Palms Health and Wellbeing Centre, <br>
-                Block C, The Avenue, Gorey, <br>
-                Co. Wexford.
+                When booking an appointment all instructions will be explained clearly to you. Get in touch with our administration team at 00-35387-4414-492 or firstoptionsfertility@gmail.com
               </p>
             </div>
           </div>
@@ -39,7 +37,7 @@
               <img src="@/assets/images/icons/office.svg"/>
             </div>
 
-            <div>
+            <div class="flex-1">
               <p class="font-medium text-xl">
                 Visit us
               </p>

@@ -2,8 +2,8 @@
   <div class="container">
     <div class="grid sm:grid-cols-1 lg:grid-cols-4 gap-4 mt-10 mb-32">
 
-      <div class="mt-8">
-        <img src="@/assets/images/talent-acquisition-logo.svg"/>
+      <div class="mt-8 mr-8">
+        <img src="@/assets/images/firstoptionsfertility-logo.svg"/>
         <p class="text-gray-500 mt-4 mr-4 text-sm">
           We’ll set you on the correct path to taking control of your fertility.
         </p>
