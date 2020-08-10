@@ -1,15 +1,15 @@
 <template>
   <div class="service-card rounded-md p-5">
-    <div class="flex items-center">
-      <div class="bg-gray-100 rounded-full p-2">
-        <img :src="image" />
-      </div>
-      <p class="ml-3">
-        <strong>
-          {{ title }}
-        </strong>
+    <div class="flex items-center justify-between">
+      <p class="font-medium">
+        {{ title }}
+      </p>
+
+      <p class="ml-3 text-primary-500 font-medium text-2xl">
+          {{ price }}
       </p>
     </div>
+
     <p class="text-gray-700 mt-2">
       {{ body }}
     </p>
@@ -24,6 +24,9 @@ export default {
       type: String,
     },
     body: {
+      type: String,
+    },
+    price: {
       type: String,
     },
     image: {

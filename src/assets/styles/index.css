@@ -29,7 +29,7 @@ h6 {
 }
 
 a:hover {
-	@apply text-keppel-600;
+	@apply text-primary-600;
 }
 
 @tailwind components;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 .container-wide {
-  max-width: 1180px;
+  max-width: 980px;
   padding-right: 1rem;
   padding-left: 1rem;
 }
@@ -50,7 +50,7 @@ a:hover {
 }
 
 .primary {
-  @apply font-medium bg-keppel-500 text-white px-6 py-4 rounded;
+  @apply font-medium bg-primary-500 text-white px-6 py-4 rounded;
 }
 
 .primary:hover {
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .secondary {
-  @apply font-medium bg-regal-blue text-black px-6 py-4 rounded;
+  @apply font-medium bg-secondary-100 text-black px-6 py-4 rounded;
 }
 
 .tertiary {

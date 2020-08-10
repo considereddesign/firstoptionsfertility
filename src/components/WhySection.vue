@@ -1,19 +1,15 @@
 <template>
-  <div id="why-us" class="bg-gray-100 -my-20">
+  <div id="why-us" class="bg-gray-100 -my-20 mb-2">
     <div class="pt-48 pb-20 container">
 
       <div class="relative inline-block">
         <h6>
-          — Why Outsource your talent acquisition?
+          — Why Us
         </h6>
 
         <h2 class="mt-4 max-w-screen-sm">
-          We’ll take the strain out of growing your team, at an affordable cost.
+          Certified clinical embryologists with entensive experience in reproductive health.
         </h2>
-
-        <div class="absolute top-0 right-0 lg:mt-10 md:mt-20 lg:-mr-16">
-          <img src="@/assets/images/penmarks/squiggle0.svg"/>
-        </div>
       </div>
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
@@ -23,7 +19,7 @@
             01
           </span>
           <p>
-            Your business is growing and demand for your time is at an all time high.
+            Our service is fast and efficient. Get appointments that suit your schedule, even on Saturdays.
           </p>
         </div>
 
@@ -32,7 +28,7 @@
             02
           </span>
           <p>
-            Recruitment is not your job and you are already feeling the strain from work overload.
+            Our staff are extremely professional and discreet. Feel safe and informed throughout the process with them.
           </p>
         </div>
 
@@ -41,7 +37,7 @@
             03
           </span>
           <p>
-            You are looking to improve the talent acquisition reputation of your business.
+            Our scientists are highly trained and have years of experience. Benefit from this, every step of the way.
           </p>
         </div>
 
@@ -50,7 +46,7 @@
             04
           </span>
           <p>
-            You need an experienced talent expert to support your team.
+            Our location ensures easy access from the surrounding areas of Wexford, Wicklow and Carlow.
           </p>
         </div>
 
@@ -59,7 +55,7 @@
             05
           </span>
           <p>
-            Cost pressures on your agency dependency.
+            Our health care clinic is modern and fit for purpose.
           </p>
         </div>
 
@@ -68,35 +64,18 @@
             06
           </span>
           <p>
-            You have a fluctuating recruitment demand.
+            We welcome all clients, including GP and Self referrals.
           </p>
         </div>
 
       </div>
-
-    </div>
-
-    <div class="container sm:text-left md:text-center pb-48">
-      <h3>
-        If any of these scenarios sound familiar, we can help.
-      </h3>
-
-      <h4 class="mt-2 text-gray-600">
-        Get access to Talent Acquisition for a fixed monthly fee.
-      </h4>
-
-      <AppButton class="mt-8 primary" link="#our-services" msg="See Services &amp; Pricing"/>
     </div>
 
   </div>
 </template>
 
 <script>
-import AppButton from './ui/AppButton.vue'
 export default {
-  name: 'WhySection',
-  components: {
-    AppButton
-  }
+  name: 'WhySection'
 }
 </script>

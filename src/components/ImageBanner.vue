@@ -1,6 +1,6 @@
 <template>
   <div class="backgroundImage" :style="{ backgroundImage: `url( ${Image} )` }">
-    <div class="text-center relative z-10 py-12 md:py-40 bg-regal-blue bg-opacity-90 px-16 w-full">
+    <div class="text-center relative z-10 py-12 md:py-40 bg-secondary bg-opacity-90 px-16 w-full">
       <div class="relative inline-block">
         <div class="squiggle1">
           <img src="@/assets/images/penmarks/squiggle1.svg"/>

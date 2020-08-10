@@ -2,10 +2,10 @@
   <div class="container-narrow mx-auto mt-20">
     <h1 class="md:pt-12">{{ msg }}</h1>
     <p class="text-lg mt-8">
-      We're a fully remote service giving scaling businesses access to a dedicated Talent Acquisition team.
+      At First Options Fertility we specialise in male fertility testing. In a straightforward simple process we assess your semen and guide you on your first steps to taking control of your fertility.
     </p>
     <p class="text-lg mt-4">
-      Get Talent Acquisition for a fixed monthly fee, a fraction of the cost of a full-time resource. We become an extension of your business that you can leverage when you need it.
+      First Options Fertility is located in Gorey, Co. Wexford. It is a modern fit for purpose health care centre with easy access from the surrounding areas.
     </p>
 
     <AppButton class="mt-12 primary"

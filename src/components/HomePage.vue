@@ -1,12 +1,11 @@
 <template>
   <div class="">
-    <SiteHero msg="We focus on attracting your talent, so you can focus on inspiring them."/>
+    <SiteHero msg="Knowledge means power. Know your fertility."/>
     <ImageGallery />
     <WhySection />
     <HowSection />
     <StarterServices />
     <ScaleServices />
-    <ImageBanner />
   </div>
 </template>
 
@@ -17,7 +16,6 @@ import WhySection from './WhySection.vue'
 import HowSection from './HowSection.vue'
 import StarterServices from './StarterServices.vue'
 import ScaleServices from './ScaleServices.vue'
-import ImageBanner from './ImageBanner.vue'
 
 export default {
   name: 'HomePage',
@@ -28,7 +26,6 @@ export default {
     HowSection,
     StarterServices,
     ScaleServices,
-    ImageBanner
   },
   props: {
     msg: String

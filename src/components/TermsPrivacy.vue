@@ -7,13 +7,11 @@
           </h1>
           <p style="font-size:15px;">
              <span style="color: rgb(127, 127, 127);">
-                <strong>
-                   <span data-custom-class="subtitle">
-                      Last updated
-                      <span class="question">July 14, 2020</span>
-                      &nbsp;
-                   </span>
-                </strong>
+                 <span data-custom-class="subtitle">
+                    Last updated
+                    <span class="question">July 14, 2020</span>
+                    &nbsp;
+                 </span>
                 &nbsp;
              </span>
           </p>

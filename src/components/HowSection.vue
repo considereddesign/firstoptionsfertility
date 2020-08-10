@@ -4,40 +4,53 @@
     <div class="pt-10 pb-20 container">
 
       <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
-        <img class="retina" src="@/assets/images/vision-values.svg"/>
+        <img class="retina" src="@/assets/images/collect-a-sample.jpg"/>
 
         <div class="md:ml-12 align-center flex flex-col justify-center">
-          <h2 class="mt-8">
-            A modern recruitment strategy.
+          <h2 class="mt-0">
+            Collect a sample
           </h2>
           <p class="text-gray-600">
-            We'll design and deliver a tailored recruitment strategy that delivers a personalised candidate experience - ensuring your Voice, Values, Purpose and People are at the core.
+            In the comfort of your own home produce a semen sample into a sterile sample container. Then bring it to the testing clinic within one hour of production.
           </p>
         </div>
       </div>
 
       <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
-        <img class="retina" src="@/assets/images/candidate-expertise.jpg"/>
+        <img class="retina" src="@/assets/images/analyse-the-semen.jpg"/>
 
         <div class="md:mr-12 align-center flex flex-col justify-center">
-          <h2 class="mt-8">
-            Exceptional candidate expertise.
+          <h2 class="mt-0">
+            Analyse the semen
           </h2>
           <p class="text-gray-600">
-            Our deep rooted industry knowledge and experience will allow for the best candidate experience throughout the process - ensuring your business has the best opportunity to get the best candidates at a cost that feels right.
+            We will conduct a complete semen analysis which includes measurements such as volume, pH, viscosity, sperm concentration, morphology, motility and agglutination with anti-sperm antibody binding testing where appropriate.
           </p>
         </div>
       </div>
 
       <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
-        <img class="retina" src="@/assets/images/day-job.jpg"/>
+        <img class="retina" src="@/assets/images/create-a-report.jpg"/>
 
         <div class="md:ml-12 align-center flex flex-col justify-center">
-          <h2 class="mt-8">
-            Allowing you to get on with your day job.
+          <h2 class="mt-0">
+            Create a report
           </h2>
           <p class="text-gray-600">
-            With us on your side, you can get on with making your business the best it can be, confident that your Talent Acquisition function is operating to it's full potential.
+            We will assess your sample according to the World Health Organisation WHO recommended standards and create a written report with your test results.
+          </p>
+        </div>
+      </div>
+
+      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
+        <img class="retina" src="@/assets/images/receive-your-results.jpg"/>
+
+        <div class="md:mr-12 align-center flex flex-col justify-center">
+          <h2 class="mt-0">
+            Receive your results
+          </h2>
+          <p class="text-gray-600">
+            We will organise a private consultation by telephone and give you a step by step explanation of your results.
           </p>
         </div>
       </div>
