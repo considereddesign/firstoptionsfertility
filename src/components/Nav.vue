@@ -29,9 +29,13 @@
         <a href="#how-it-works" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           How it works
         </a>
-        
-        <a href="#our-services" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
-          Our Services
+
+        <a href="#costs" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+          Costs
+        </a>
+
+        <a class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
+          Contact
         </a>
       </div>
     </div>

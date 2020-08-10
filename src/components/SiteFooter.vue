@@ -5,10 +5,10 @@
       <div class="mt-8">
         <img src="@/assets/images/talent-acquisition-logo.svg"/>
         <p class="text-gray-500 mt-4 mr-4 text-sm">
-          We focus on attracting your talent, so you can focus on inspiring them.
+          We’ll set you on the correct path to taking control of your fertility.
         </p>
         <p class="text-gray-400 mt-8 mr-4 text-xs">
-          TalentAcquisition.ie © 2020
+          FirstOptionsFertility © 2020
         </p>
         <p class="text-gray-400 mt-2 mr-4 text-xs">
           Site by <a href="https://ciaran.design" target="_blank">Ciaran.Design</a>
@@ -20,7 +20,7 @@
         <ul>
           <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#why-us" rel="noopener">Why us</a></li>
           <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#how-it-works" rel="noopener">How it works</a></li>
-          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#our-services" rel="noopener">Services</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#costs" rel="noopener">Costs</a></li>
         </ul>
       </div>
 
@@ -28,7 +28,7 @@
         <h6 class="md:ml-2 mb-4 pb-2 border-b-2 border-gray-100">Company</h6>
         <ul>
           <li>
-            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="mailto:Gavin.fox@martinsenmayer.com" target="_blank" rel="noopener">
+            <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
             Contact us
             </a>
           </li>

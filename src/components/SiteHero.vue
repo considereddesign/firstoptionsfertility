@@ -2,15 +2,15 @@
   <div class="container-narrow mx-auto mt-20">
     <h1 class="md:pt-12">{{ msg }}</h1>
     <p class="text-lg mt-8">
-      At First Options Fertility we specialise in male fertility testing. In a straightforward simple process we assess your semen and guide you on your first steps to taking control of your fertility.
+      At First Options Fertility we specialise in male fertility testing. In a straightforward non-invasive process we assess your semen and guide you on your first steps to taking control of your fertility.
     </p>
     <p class="text-lg mt-4">
-      First Options Fertility is located in Gorey, Co. Wexford. It is a modern fit for purpose health care centre with easy access from the surrounding areas.
+      First Options Fertility is located in Gorey, Co. Wexford servicing clients in the South-East region in a discreet and professional manner.
     </p>
 
     <AppButton class="mt-12 primary"
-      link="https://talentacquisitionie.typeform.com/to/dKDMZE5W"
-      msg="Get Started"
+      link="https://calendly.com/firstoptionsfertility/30min"
+      msg="Make an Appointment"
       target="_blank"
     />
     <AppButton class="mt-12 ml-2 tertiary" link="#why-us" msg="Learn more" />

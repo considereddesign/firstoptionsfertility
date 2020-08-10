@@ -1,5 +1,5 @@
 <template>
-  <div id="why-us" class="bg-gray-100 -my-20 mb-2">
+  <div id="why-us" class="bg-gray-100 -my-20 mb-0">
     <div class="pt-48 pb-20 container">
 
       <div class="relative inline-block">
@@ -19,7 +19,7 @@
             01
           </span>
           <p>
-            Our service is fast and efficient. Get appointments that suit your schedule, even on Saturdays.
+            Our service is fast and efficient. Get Saturday appointments that suit your schedule.
           </p>
         </div>
 
@@ -46,7 +46,7 @@
             04
           </span>
           <p>
-            Our location ensures easy access from the surrounding areas of Wexford, Wicklow and Carlow.
+            We welcome all clients including GP and self referrals.
           </p>
         </div>
 
@@ -55,7 +55,7 @@
             05
           </span>
           <p>
-            Our health care clinic is modern and fit for purpose.
+            Produce your semen sample in the safety and privacy of your own home.
           </p>
         </div>
 

@@ -1,5 +1,5 @@
 <template>
-  <div id="our-services" class="bg-gray-100">
+  <div id="costs" class="bg-gray-100">
 
     <div class="pt-24 pb-20 container-wide mx-auto">
       <h6 class="text-secondary-500">
@@ -7,7 +7,7 @@
       </h6>
 
       <h2 class="mt-2 max-w-screen-sm">
-        We’ll set you on the correct path to taking control of your fertility.
+        First Options Fertility will set you on the correct path to taking control of your fertility.
       </h2>
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
@@ -16,14 +16,12 @@
           body="Recieve a complete semen assessment, written report and private consultation."
           footer="Subsequent semen assements will cost €120."
           price="€150"
-          :image="require('@/assets/images/icons/employee-branding.svg')"
         />
 
         <ServiceCard
           title="Consultation only"
           body="Review of previous semen assessments, embryology notes, embryo culture videos after fertility treatment in an IVF laboratory."
           price="€90"
-          :image="require('@/assets/images/icons/recruitment-analytics.svg')"
         />
       </div>
     </div>

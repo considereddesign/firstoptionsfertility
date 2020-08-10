@@ -1,22 +1,61 @@
 <template>
-  <div class="bg-white">
+  <div>
+    <img class="mt--2" src="@/assets/images/wave.svg"/>
+    <div class="bg-white container-wide mx-auto py-24">
 
-    <div class="pt-24 pb-20 container-wide mx-auto">
-      <h6 class="text-secondary-500">
-        —  Get in Touch
-      </h6>
+      <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
 
-      <h2 class="mt-4 max-w-screen-sm">
-        Contact Us
-      </h2>
+        <div class="">
+          <h6 class="text-secondary-500">
+            Get in Touch
+          </h6>
 
-      <div class="grid sm:grid-cols-1 lg:grid-cols-3 gap-4 mt-10">
+          <h2 class="mt-4 max-w-screen-sm">
+            Contact Us
+          </h2>
+        </div>
 
+        <div class="">
+          <div class="mt-4 flex">
+            <div class="bg-gray-100 p-2 rounded-full h-16 w-16 flex align-center justify-center mr-6">
+              <img src="@/assets/images/icons/calendar.svg"/>
+            </div>
+
+            <div>
+              <p class="font-medium text-xl">
+                Make an appointment
+              </p>
+
+              <p class="mt-4">
+                The Palms Health and Wellbeing Centre, <br>
+                Block C, The Avenue, Gorey, <br>
+                Co. Wexford.
+              </p>
+            </div>
+          </div>
+
+          <div class="mt-12 flex">
+            <div class="bg-gray-100 p-2 rounded-full h-16 w-16 flex align-center justify-center mr-6">
+              <img src="@/assets/images/icons/office.svg"/>
+            </div>
+
+            <div>
+              <p class="font-medium text-xl">
+                Visit us
+              </p>
+
+              <p class="mt-4">
+                The Palms Health and Wellbeing Centre, <br>
+                Block C, The Avenue, Gorey, <br>
+                Co. Wexford.
+              </p>
+            </div>
+          </div>
+        </div>
 
       </div>
+
     </div>
-
-
   </div>
 </template>
 
@@ -32,5 +71,9 @@ export default {
 <style scoped>
 .service-card  {
   @apply bg-gray-100;
+}
+
+.mt--2 {
+  margin-top: -2px;
 }
 </style>
