@@ -14,13 +14,14 @@
         <ServiceCard
           title="Semen assessment package"
           body="Recieve a complete semen assessment, written report and private consultation."
+          footer="Subsequent semen assements will cost €120."
           price="€150"
           :image="require('@/assets/images/icons/employee-branding.svg')"
         />
 
         <ServiceCard
           title="Consultation only"
-          body="We’ll perfect or create an effective recruitment strategy for your company."
+          body="Review of previous semen assessments, embryology notes, embryo culture videos after fertility treatment in an IVF laboratory."
           price="€90"
           :image="require('@/assets/images/icons/recruitment-analytics.svg')"
         />

@@ -6,7 +6,7 @@ import router from './router'
 import './assets/styles/index.css';
 
 Vue.use(VueGtag, {
-  config: { id: 'UA-172318941-1' }
+  config: { id: 'UA-175059262-1' }
 });
 
 Vue.config.productionTip = false

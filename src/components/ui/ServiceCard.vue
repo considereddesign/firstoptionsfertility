@@ -1,17 +1,21 @@
 <template>
   <div class="service-card rounded-md p-5">
-    <div class="flex items-center justify-between">
-      <p class="font-medium">
+    <div class="flex items-baseline justify-between">
+      <p class="font-medium text-lg">
         {{ title }}
       </p>
 
-      <p class="ml-3 text-primary-500 font-medium text-2xl">
+      <p class="text-primary-500 font-medium text-2xl">
           {{ price }}
       </p>
     </div>
 
-    <p class="text-gray-700 mt-2">
+    <p class="text-gray-700 mt-4">
       {{ body }}
+    </p>
+
+    <p class="mt-4 text-gray-500 text-sm">
+      {{ footer }}
     </p>
   </div>
 </template>
@@ -24,6 +28,9 @@ export default {
       type: String,
     },
     body: {
+      type: String,
+    },
+    footer: {
       type: String,
     },
     price: {

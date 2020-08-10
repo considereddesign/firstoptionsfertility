@@ -22,14 +22,14 @@
              <span style="color: rgb(89, 89, 89);">
                 <span data-custom-class="body_text">
                    Thank you for visiting our site at
-                   <span class="question">TalentAcquisition</span>
+                   <span class="question">FirstOptionsFertility</span>
                    <span class="block-component"></span>
                    (“
                    <span class="block-component"></span>
                    company
                    <span class="statement-end-if-in-editor"></span>
                    ”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at
-                   <span class="question">Gavin.fox@martinsenmayer.com</span>
+                   <span class="question">firstoptionsfertility@gmail.com</span>
                    .<br><br>
                 </span>
              </span>
@@ -40,7 +40,7 @@
                    When you visit our
                    <span class="block-component"></span>
                    website
-                   <span class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></span>
+                   <span class="question"><a href="https://firstoptionsfertility.ie" target="_blank" data-custom-class="link">https://firstoptionsfertility.ie</a></span>
                    ,
                    <span class="statement-end-if-in-editor"></span>
                    <span class="block-component"></span>
@@ -64,7 +64,7 @@
                    <span class="question">website</span>
                    <span class="forloop-component"></span>
                    (such as
-                   <span class="question"><a href="https://talentacquisition.ie" target="_blank" data-custom-class="link">https://talentacquisition.ie</a></span>
+                   <span class="question"><a href="https://firstoptionsfertility.ie" target="_blank" data-custom-class="link">https://firstoptionsfertility.ie</a></span>
                    ),
                    <span class="statement-end-if-in-editor"></span>
                    <span class="block-component"></span>
@@ -461,7 +461,7 @@
                    <span class="block-component"></span>
                    . If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at
                    <span class="block-component"></span>
-                   <span class="question">Gavin.fox@martinsenmayer.com</span>
+                   <span class="question">firstoptionsfertility@gmail.com</span>
                    <span class="else-block"></span>
                    .
                 </span>
@@ -516,7 +516,7 @@
                       .
                       <span class="block-component"></span>
                       For further information, please see our Cookie Policy:
-                      <span class="question"><a href="https://talentacquisition.ie/cookie-policy" target="_blank" data-custom-class="link">https://talentacquisition.ie/cookie-policy</a></span>
+                      <span class="question"><a href="https://firstoptionsfertility.ie/cookie-policy" target="_blank" data-custom-class="link">https://firstoptionsfertility.ie/cookie-policy</a></span>
                       .
                       <span class="block-component"></span>
                       <span style="font-size: 15px;">
@@ -581,7 +581,7 @@
                    If you have questions or comments about this policy, you may
                    <span class="block-component"></span>
                    email us at
-                   <span class="question">Gavin.fox@martinsenmayer.com</span>
+                   <span class="question">firstoptionsfertility@gmail.com</span>
                    <span class="statement-end-if-in-editor"></span>
                    or by post to:
                 </span>
@@ -589,7 +589,7 @@
           </p>
           <div>
              <span style="color: rgb(89, 89, 89);">
-                <span class="question"><span style="font-size: 15px;"><span data-custom-class="body_text">TalentAcquisition</span></span></span>
+                <span class="question"><span style="font-size: 15px;"><span data-custom-class="body_text">FirstOptionsFertility</span></span></span>
                 <span data-custom-class="body_text">
                    <span style="font-size: 15px;">
                       <span class="block-component"></span>

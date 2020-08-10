@@ -1,12 +1,22 @@
 <template>
   <div id="how-it-works" class="bg-white">
 
-    <div class="pt-10 pb-20 container">
+    <div class="text-center container-narrow mx-auto mt-32">
+      <h6 class="text-secondary-500">
+        Semen Assessment
+      </h6>
 
-      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
+      <h2 class="mt-2">
+        How it works
+      </h2>
+    </div>
+
+    <div class="pt-0 pb-32 container">
+
+      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-32">
         <img class="retina" src="@/assets/images/collect-a-sample.jpg"/>
 
-        <div class="md:ml-12 align-center flex flex-col justify-center">
+        <div class="md:mx-12 align-center flex flex-col justify-center">
           <h2 class="mt-0">
             Collect a sample
           </h2>
@@ -16,10 +26,10 @@
         </div>
       </div>
 
-      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
+      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-32">
         <img class="retina" src="@/assets/images/analyse-the-semen.jpg"/>
 
-        <div class="md:mr-12 align-center flex flex-col justify-center">
+        <div class="md:mx-12 align-center flex flex-col justify-center">
           <h2 class="mt-0">
             Analyse the semen
           </h2>
@@ -29,10 +39,10 @@
         </div>
       </div>
 
-      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-20">
+      <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-32">
         <img class="retina" src="@/assets/images/create-a-report.jpg"/>
 
-        <div class="md:ml-12 align-center flex flex-col justify-center">
+        <div class="md:mx-12 align-center flex flex-col justify-center">
           <h2 class="mt-0">
             Create a report
           </h2>
@@ -42,10 +52,10 @@
         </div>
       </div>
 
-      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-20">
+      <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-32">
         <img class="retina" src="@/assets/images/receive-your-results.jpg"/>
 
-        <div class="md:mr-12 align-center flex flex-col justify-center">
+        <div class="md:mx-12 align-center flex flex-col justify-center">
           <h2 class="mt-0">
             Receive your results
           </h2>
