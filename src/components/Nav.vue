@@ -1,7 +1,7 @@
 <template>
   <nav class="flex items-center justify-between flex-wrap p-4">
-    <div class="flex items-center flex-shrink-0 text-black mr-6">
-      <a href="/">
+    <div class="flex flex-1 items-center flex-shrink-0 text-black md:mr-6">
+      <a class="logo" href="/">
         <img src="@/assets/images/firstoptionsfertility-logo.svg"/>
       </a>
     </div>
@@ -57,3 +57,11 @@
     }
   }
 </script>
+
+<style scoped>
+@media only screen and (max-width: 480px) {
+  .logo {
+    max-width: 90%;
+  }
+}
+</style>
