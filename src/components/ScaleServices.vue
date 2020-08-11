@@ -1,7 +1,7 @@
 <template>
   <div>
     <img class="mt--2" src="@/assets/images/wave.svg"/>
-    <div class="bg-white container-wide mx-auto py-24">
+    <div id="contact" class="bg-white container-wide mx-auto py-24">
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
         <div class="">

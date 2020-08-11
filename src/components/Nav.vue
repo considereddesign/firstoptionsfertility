@@ -34,7 +34,7 @@
           Costs
         </a>
 
-        <a class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
+        <a href="#contact" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Contact
         </a>
         <a

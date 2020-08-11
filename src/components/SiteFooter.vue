@@ -21,6 +21,7 @@
           <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#why-us" rel="noopener">Why us</a></li>
           <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#how-it-works" rel="noopener">How it works</a></li>
           <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#costs" rel="noopener">Costs</a></li>
+          <li><a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="#contact" rel="noopener">Contact</a></li>
         </ul>
       </div>
 
@@ -29,11 +30,11 @@
         <ul>
           <li>
             <a class="text-sm rounded py-1 px-2 hover:bg-gray-100 block" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
-            Contact us
+              Email us
             </a>
           </li>
-          <li>
 
+          <li>
             <router-link
               class="text-sm rounded py-1 px-2 hover:bg-gray-100 block"
               to="/terms-privacy"
