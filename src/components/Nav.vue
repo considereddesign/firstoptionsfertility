@@ -22,23 +22,23 @@
 
     <div v-bind:class="{'hidden': !showMenu, 'flex': showMenu}" class="justify-end w-full block flex-end lg:flex lg:items-center lg:w-auto">
       <div class="">
-        <a href="#why-us" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#why-us" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Why us
         </a>
 
-        <a href="#how-it-works" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#how-it-works" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           How it works
         </a>
 
-        <a href="#costs" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
+        <a href="#costs" class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2">
           Costs
         </a>
 
-        <a class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
+        <a class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2" href="mailto:firstoptionsfertility@gmail.ie" target="_blank" rel="noopener">
           Contact
         </a>
         <a
-          class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-gray-700 hover:text-black hover:bg-gray-100 rounded px-3 py-2"
+          class="text-right text-sm block mt-4 lg:inline-block lg:mt-0 text-navy-500 hover:text-black hover:bg-gray-100 rounded px-3 py-2"
           href="https://calendly.com/firstoptionsfertility/30min"
           target="_blank"
           rel="noopener"

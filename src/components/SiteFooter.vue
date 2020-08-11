@@ -4,13 +4,13 @@
 
       <div class="mt-8 mr-8">
         <img src="@/assets/images/firstoptionsfertility-logo.svg"/>
-        <p class="text-gray-500 mt-4 mr-4 text-sm">
+        <p class="text-navy-400 mt-4 mr-4 text-sm">
           We’ll set you on the correct path to taking control of your fertility.
         </p>
-        <p class="text-gray-400 mt-8 mr-4 text-xs">
+        <p class="text-navy-300 mt-8 mr-4 text-xs">
           FirstOptionsFertility © 2020
         </p>
-        <p class="text-gray-400 mt-2 mr-4 text-xs">
+        <p class="text-navy-300 mt-2 mr-4 text-xs">
           Designed by <a href="https://emmacarberry.com" target="_blank">Emma Carberry</a>
         </p>
       </div>

@@ -15,7 +15,7 @@
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             01
           </span>
           <p>
@@ -24,7 +24,7 @@
         </div>
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             02
           </span>
           <p>
@@ -33,7 +33,7 @@
         </div>
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             03
           </span>
           <p>
@@ -42,7 +42,7 @@
         </div>
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             04
           </span>
           <p>
@@ -51,7 +51,7 @@
         </div>
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             05
           </span>
           <p>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="rounded p-6 flex bg-white">
-          <span class="text-gray-500 mr-4">
+          <span class="text-navy-300 mr-4">
             06
           </span>
           <p>

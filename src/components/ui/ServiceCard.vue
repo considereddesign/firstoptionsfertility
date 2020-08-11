@@ -14,7 +14,7 @@
       {{ body }}
     </p>
 
-    <p class="mt-4 text-gray-500 text-sm">
+    <p class="mt-4 text-navy-300 text-sm">
       {{ footer }}
     </p>
   </div>

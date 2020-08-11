@@ -6,7 +6,7 @@
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
         <div class="">
           <h6 class="text-secondary-500">
-            Get in Touch
+            - Get in Touch
           </h6>
 
           <h2 class="mt-4 max-w-screen-sm">
@@ -27,8 +27,8 @@
 
               <p class="mt-4">
                 When booking an appointment, all instructions will be explained clearly to you. <br> <br>
-                <span class="text-gray-500">Call:</span> <a href="tel:+353874414492">00-35387-4414-492</a><br>
-                <span class="text-gray-500">Email:</span> <a href="mailto:firstoptionsfertility@gmail.com">firstoptionsfertility@gmail.com</a>
+                <span class="text-navy-300">Call:</span> <a href="tel:+353874414492">00-35387-4414-492</a><br>
+                <span class="text-navy-300">Email:</span> <a href="mailto:firstoptionsfertility@gmail.com">firstoptionsfertility@gmail.com</a>
               </p>
 
               <p class="mt-4">

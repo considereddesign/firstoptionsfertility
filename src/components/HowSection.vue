@@ -22,7 +22,7 @@
             <h2 class="mt-0">
               Collect a sample
             </h2>
-            <p class="text-gray-600">
+            <p class="text-navy-400">
               In the comfort and safety of your own home produce a semen sample into a sterile sample container, then bring it to the testing clinic within one hour of production. Detailed information will be given to you prior to your appointment on how best to produce the sample and maintain it's integrity prior to analysis.
             </p>
           </div>
@@ -35,7 +35,7 @@
             <h2 class="mt-0">
               Analyse the sample
             </h2>
-            <p class="text-gray-600">
+            <p class="text-navy-400">
               We will conduct a suite of analyses including sperm concentration, morphology, motility, volume, pH, viscosity and agglutination with anti-sperm antibody binding testing where appropriate  informing your fertility status.
             </p>
           </div>
@@ -48,7 +48,7 @@
             <h2 class="mt-0">
               Create a report
             </h2>
-            <p class="text-gray-600">
+            <p class="text-navy-400">
               Your results will be cross-checked against defined World Health Organisation standards producing your individual tailored report.
             </p>
           </div>
@@ -61,7 +61,7 @@
             <h2 class="mt-0">
               Receive your results
             </h2>
-            <p class="text-gray-600">
+            <p class="text-navy-400">
               During your phone consultation we will walk you through your test results and guide you on your fertility journey.
             </p>
           </div>
