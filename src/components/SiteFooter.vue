@@ -11,7 +11,7 @@
           FirstOptionsFertility © 2020
         </p>
         <p class="text-gray-400 mt-2 mr-4 text-xs">
-          Site by <a href="https://ciaran.design" target="_blank">Ciaran.Design</a>
+          Designed by <a href="https://emmacarberry.com" target="_blank">Emma Carberry</a>
         </p>
       </div>
 
@@ -47,12 +47,39 @@
           </li>
         </ul>
       </div>
-<!--
-      <div>
+
+      <div class="mt-8">
         <h6 class="ml-2 mb-4 pb-2 border-b-2 border-gray-100">Follow</h6>
-        <ul>
+        <ul class="flex">
+          <li>
+            <a
+              class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
+              href="#"
+              rel="noopener"
+            >
+              <img src="@/assets/images/icons/instagram.svg"/>
+            </a>
+          </li>
+          <li>
+            <a
+              class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
+              href="#"
+              rel="noopener"
+            >
+              <img src="@/assets/images/icons/twitter.svg"/>
+            </a>
+          </li>
+          <li>
+            <a
+              class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
+              href="#"
+              rel="noopener"
+            >
+              <img src="@/assets/images/icons/facebook.svg"/>
+            </a>
+          </li>
         </ul>
-      </div> -->
+      </div>
 
     </div>
   </div>

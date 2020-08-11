@@ -4,7 +4,6 @@
     <div class="bg-white container-wide mx-auto py-24">
 
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
-
         <div class="">
           <h6 class="text-secondary-500">
             Get in Touch
@@ -48,7 +47,7 @@
                 Where to find us
               </p>
               <p class="mt-4">
-                We're service clients in the south-east region and are a short drive from Dublin, Carlow and Wexford.
+                We service clients in the south-east region and are a short drive from Dublin, Carlow and Wexford.
               </p>
               <p class="mt-4">
                 The Palms Health and Wellbeing Centre, <br>

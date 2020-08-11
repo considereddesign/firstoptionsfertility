@@ -3,8 +3,8 @@
     <div class="pt-48 pb-20 container">
 
       <div class="relative inline-block">
-        <h6>
-          — Why Us
+        <h6 class="text-secondary-500">
+          - Why Us
         </h6>
 
         <h2 class="mt-4 max-w-screen-sm">
