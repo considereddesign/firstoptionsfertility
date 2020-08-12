@@ -47,7 +47,7 @@
                 Where to find us
               </p>
               <p class="mt-4">
-                We service clients in the south-east region and are a short drive from Dublin, Carlow and Wexford.
+                We service clients in the south-east region and are a short drive from Dublin, Wicklow, Carlow and Wexford.
               </p>
               <p class="mt-4">
                 The Palms Health and Wellbeing Centre, <br>

@@ -46,7 +46,7 @@
             04
           </span>
           <p>
-            We welcome all clients including GP and self referrals.
+            Our location ensures easy access from the surrounding areas of Dublin, Wexford, Wicklow and Carlow.
           </p>
         </div>
 

@@ -55,8 +55,9 @@
           <li>
             <a
               class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
-              href="#"
+              href="https://www.instagram.com/firstoptionsfertility/"
               rel="noopener"
+              target="_blank"
             >
               <img src="@/assets/images/icons/instagram.svg"/>
             </a>
@@ -64,8 +65,9 @@
           <li>
             <a
               class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
-              href="#"
+              href="https://twitter.com/firstoptionsfertility"
               rel="noopener"
+              target="_blank"
             >
               <img src="@/assets/images/icons/twitter.svg"/>
             </a>
@@ -73,8 +75,9 @@
           <li>
             <a
               class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
-              href="#"
+              href="https://www.facebook.com/firstoptionsfertility"
               rel="noopener"
+              target="_blank"
             >
               <img src="@/assets/images/icons/facebook.svg"/>
             </a>
