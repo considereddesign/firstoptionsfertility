@@ -16,7 +16,7 @@
       <div class="pt-0 pb-32 container">
 
         <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-32">
-          <img class="retina" src="@/assets/images/collect-a-sample.jpg"/>
+          <img class="retina" src="@/assets/images/collect-a-sample.jpg" alt="First Options Fertility - Semen Sample Collection"/>
 
           <div class="md:mx-12 align-center flex flex-col justify-center">
             <h2 class="mt-0">
@@ -29,7 +29,7 @@
         </div>
 
         <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-32">
-          <img class="retina" src="@/assets/images/analyse-the-semen.jpg"/>
+          <img class="retina" src="@/assets/images/analyse-the-semen.jpg" alt="First Options Fertility - Analyse Semen Sample"/>
 
           <div class="md:mx-12 align-center flex flex-col justify-center">
             <h2 class="mt-0">
@@ -42,7 +42,7 @@
         </div>
 
         <div class="md:flex flex-row sm:flex-col md:flex-row lg:flex-row xl:flex-row mt-32">
-          <img class="retina" src="@/assets/images/create-a-report.jpg"/>
+          <img class="retina" src="@/assets/images/create-a-report.jpg" alt="First Options Fertility - Semen Sample Report"/>
 
           <div class="md:mx-12 align-center flex flex-col justify-center">
             <h2 class="mt-0">
@@ -55,7 +55,7 @@
         </div>
 
         <div class="md:flex flex-row sm:flex-col md:flex-row-reverse lg:flex-row-reverse xl:flex-row-reverse mt-32">
-          <img class="retina" src="@/assets/images/receive-your-results.jpg"/>
+          <img class="retina" src="@/assets/images/receive-your-results.jpg" alt="First Options Fertility - Receive your Semen Sample"/>
 
           <div class="md:mx-12 align-center flex flex-col justify-center">
             <h2 class="mt-0">

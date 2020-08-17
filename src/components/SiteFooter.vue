@@ -59,27 +59,27 @@
               rel="noopener"
               target="_blank"
             >
-              <img src="@/assets/images/icons/instagram.svg"/>
+              <img src="@/assets/images/icons/instagram.svg" alt="Instagram Logo"/>
             </a>
           </li>
           <li>
             <a
               class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
-              href="https://twitter.com/firstoptionsfertility"
+              href="https://twitter.com/first_options"
               rel="noopener"
               target="_blank"
             >
-              <img src="@/assets/images/icons/twitter.svg"/>
+              <img src="@/assets/images/icons/twitter.svg" alt="Twitter Logo"/>
             </a>
           </li>
           <li>
             <a
               class="h-10 w-10 mr-2 rounded-full p-2 flex align-center justify-center bg-gray-100 hover:bg-gray-100 block"
-              href="https://www.facebook.com/firstoptionsfertility"
+              href="https://www.facebook.com/firstoptionsfertility.firstoptionsfertility.9"
               rel="noopener"
               target="_blank"
             >
-              <img src="@/assets/images/icons/facebook.svg"/>
+              <img src="@/assets/images/icons/facebook.svg" alt="Facebook Logo"/>
             </a>
           </li>
         </ul>

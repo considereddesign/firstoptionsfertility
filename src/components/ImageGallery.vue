@@ -3,22 +3,22 @@
     <!-- <div class=""> -->
       <div class="flex items-baseline">
         <div class="image-container">
-          <img src="@/assets/images/gallery-image--2.png"/>
+          <img src="@/assets/images/gallery-image--2.png" alt="First Options Fertility - Male Feritility Testing"/>
         </div>
         <div class="image-container">
-          <img src="@/assets/images/gallery-image--1.png"/>
+          <img src="@/assets/images/gallery-image--1.png" alt="First Options Fertility - Know your fertility"/>
         </div>
         <div class="image-container">
-          <img src="@/assets/images/gallery-image-0.png"/>
+          <img src="@/assets/images/gallery-image-0.png" alt="First Options Fertility - Semen Sample Collection"/>
         </div>
         <div class="image-container">
-          <img src="@/assets/images/gallery-image-1.png"/>
+          <img src="@/assets/images/gallery-image-1.png" alt="First Options Fertility - Non-invasive process"/>
         </div>
         <div class="image-container">
-          <img src="@/assets/images/gallery-image-2.png"/>
+          <img src="@/assets/images/gallery-image-2.png" alt="First Options Fertility - located in Gorey, Co. Wexford"/>
         </div>
         <div class="image-container">
-          <img src="@/assets/images/gallery-image-3.png"/>
+          <img src="@/assets/images/gallery-image-3.png" alt="First Options Fertility - Produce your semen sample in the safety and privacy of your own home"/>
         </div>
       </div>
     <!-- </div> -->
