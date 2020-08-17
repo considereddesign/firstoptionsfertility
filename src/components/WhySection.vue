@@ -8,7 +8,7 @@
         </h6>
 
         <h2 class="mt-4 max-w-screen-sm">
-          Certified clinical embryologists with entensive experience in reproductive health.
+          Certified clinical embryologists with extensive experience in reproductive health.
         </h2>
       </div>
 
