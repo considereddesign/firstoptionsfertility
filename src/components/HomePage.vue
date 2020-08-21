@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <SiteHero msg="Knowledge means power. Know your fertility."/>
+    <SiteHero msg="Knowledge is power. Know your fertility."/>
     <ImageGallery />
     <WhySection />
     <HowSection />
