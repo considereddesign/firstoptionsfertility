@@ -4,7 +4,7 @@
 
       <div class="relative inline-block">
         <h6 class="text-secondary-500">
-          - Why Us
+          - Why carry our your semen assessment with us
         </h6>
 
         <h2 class="mt-4 max-w-screen-sm">

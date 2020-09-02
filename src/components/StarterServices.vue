@@ -13,8 +13,8 @@
       <div class="grid sm:grid-cols-1 lg:grid-cols-2 gap-4 mt-10">
         <ServiceCard
           title="Semen assessment package"
-          body="Recieve a complete semen assessment, written report and private consultation."
-          footer="Subsequent semen assements will cost €120."
+          body="Receive a complete semen assessment, written report and private consultation."
+          footer="Subsequent semen assessments will cost €120."
           price="€150"
         />
 

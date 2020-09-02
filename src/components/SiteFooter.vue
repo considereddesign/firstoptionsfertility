@@ -5,7 +5,7 @@
       <div class="mt-8 mr-8">
         <img src="@/assets/images/firstoptionsfertility-logo.svg"/>
         <p class="text-navy-400 mt-4 mr-4 text-sm">
-          We’ll set you on the correct path to taking control of your fertility.
+          Our semen assessment will set you on the correct path to taking control of your fertility.
         </p>
         <p class="text-navy-300 mt-8 mr-4 text-xs">
           FirstOptionsFertility © 2020
